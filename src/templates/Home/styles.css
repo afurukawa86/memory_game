@@ -1,0 +1,7 @@
+.container {
+    margin: auto;
+    max-width: 50%;
+    height: 100vh;
+    display: flex;
+    background-color: wheat;
+}
